@@ -1,3 +1,3 @@
 # odin-recipes
 
-HTML Project. Favorite recpies website.
+HTML Project. Favorite recpies website. Used allrecpies.com (chef john and someone named mmvsa). Pics from ...
